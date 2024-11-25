@@ -44,7 +44,7 @@ This is a deep learning project that utilizes **CNN** and **LSTM** models for mu
 
 ## Demo  
 Check out the demo video below showcasing the model's performance and the Streamlit interface:  
-![Demo Video](./path_to_your_demo_video.mp4)  
+![Demo Video](./demo.webm)  
 
 ## How to Predict  
 1. Simply upload a 30-second `.wav` audio file via the Streamlit interface.  
