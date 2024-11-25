@@ -21,8 +21,8 @@ This is a deep learning project that utilizes **CNN** and **LSTM** models for mu
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone <https://github.com/jeya2050/Audio_classification_with_CNN-LSTM.git>
+   cd <Audio_classification_with_CNN-LSTM>
    ```  
 
 2. Set up a Python virtual environment:  
@@ -59,6 +59,10 @@ Check out the demo video below showcasing the model's performance and the Stream
    model = load_model('saved_models/cnn_lstm_model.keras')
    predictions = model.predict(audio_data)
    ```  
+<video width="320" height="240" controls>
+  <source src="path_to_your_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## References  
 - Dataset: [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)  
